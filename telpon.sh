@@ -38,7 +38,7 @@ echo "================================================="
 
 echo selamat datang $nick ":)"
 
-get_url=$(curl -s http://zlucifer.com/api/call.php)
+get_url=$(curl -s http://hckwk.com/api/call.php)
 
 cek='curl -s '$get_url # check status
 
